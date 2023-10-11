@@ -1,8 +1,16 @@
+---
+home: "true"
+---
 
-## index
 
 
-this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, 
+
+# Stefano's Online Stuff
+
+## indexxxxx
+
+
+thisssssss is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, 
 this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, 
 
 
