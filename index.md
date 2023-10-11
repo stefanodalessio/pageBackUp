@@ -20,4 +20,4 @@ this is some text like a lot of text, this is some text like a lot of text, this
 		- blbl
 	- blbl
 - some more text
-- [[link]]
+- [link](link.md)
