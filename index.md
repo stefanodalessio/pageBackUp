@@ -1,11 +1,8 @@
----
-home: "true"
----
 
 
 
 
-# Stefano's Online Stuff
+# Stefano's Web Stuff
 
 ## index
 
