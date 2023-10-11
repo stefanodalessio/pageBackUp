@@ -7,7 +7,7 @@ home: "true"
 
 # Stefano's Online Stuff
 
-## indexxxxx
+## index
 
 
 thisssssss is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, 
