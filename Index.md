@@ -1,7 +1,4 @@
 
-
-
-
 # Stefano's Web Stuff
 
 ## index
