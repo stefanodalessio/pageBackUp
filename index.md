@@ -1,8 +1,7 @@
 
 # Stefano's Web Stuff
 
-## index i am AAANdex
-
+## index 
 
 thisssssss is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, 
 this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, 
