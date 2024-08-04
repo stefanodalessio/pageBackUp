@@ -1,6 +1,7 @@
 
 If you are here you either want to see my portfolio:
-[[https://cargocollective.com/stefanodalessio]]
+(cargocollective.com/stefanodalessio)[https://cargocollective.com/stefanodalessio]
+
 or my techy arty research space S.T.E.:
-[[stefanodaless.github.io/ste]]
+(stefanodalessio.github.io/ste)[stefanodalessio.github.io/ste]
 
