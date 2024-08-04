@@ -1,17 +1,9 @@
 
 # Stefano's Web Stuff
 
-## index 
+If you are here you either want to see my portfolio:
+[https://cargocollective.com/stefanodalessio]
 
-thisssssss is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, 
-this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, this is some text like a lot of text, 
+or my techy arty research space S.T.E.:
+[stefanodaless.github.io/ste]
 
-
-- some text
-	- indented
-		- indented again
-		- blbl
-	- blbl
-- some more text
-- [link](link.md)
-- more stuff
